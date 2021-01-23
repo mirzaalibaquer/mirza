@@ -1,2 +1,0 @@
-# mirza
-Project C20
